@@ -1,0 +1,8 @@
+rootProject.name = 'spring_cloud'
+include 'netflix_ribbon'
+include 'eureka_server'
+include 'eureka_client'
+include 'eureka-server02'
+include 'service-provider'
+include 'service-consumer'
+
